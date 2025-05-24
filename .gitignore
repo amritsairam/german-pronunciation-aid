@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment (adjust if your venv has a different name)
+assignment/
+venv/
+.venv/
+
+# Temporary Files
+temp_*.mp3
+temp_*.wav
+
+# IDE / OS specific
+.idea/
+.vscode/
+*.DS_Store
+
+.env 
